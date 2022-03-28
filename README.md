@@ -7,12 +7,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-d%C3%B3rea-971aa290/)](https://www.linkedin.com/in/brunohfdorea/)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/BrunoDorearias10/)](https://github.com/BrunoDorea)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/bruno.h_)](https://www.instagram.com/bruno.h_)
-[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)(https://linktr.ee/bruno.dorea)]
+[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/bruno.dorea)
 [![Perfil Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/brunodorea)
 [![Github Site](https://img.shields.io/badge/BrunoDorea.GitHub.io-black?style=for-the-badge&logo={BrunoDorea.GitHub.io}&logoColor=white&link=https://brunodorea.github.io/)](https://brunodorea.github.io/)
 [![Github Portifolio](https://img.shields.io/badge/Bruno%20Labs-gray?style=for-the-badge&logo={Bruno-Labs}&logoColor=black&link=https://bruno-labs.netlify.app/)](https://bruno-labs.netlify.app/)
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)(https://codepen.io/brunodorea)]
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)(https://pt.stackoverflow.com/users/281386/bruno)]
+[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/brunodorea)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/users/281386/bruno)
 
 ### Skills
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -25,7 +25,7 @@
 
 ### Tools
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-39404b?style=flat&logo=visual-studio-code&logoColor=007acc)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -37,8 +37,8 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-![Trello](https://img.shields.io/badge/-Trello-39404b?style=flat&logo=trello&logoColor=0052cc)
-![Figma](https://img.shields.io/badge/-Figma-39404b?style=flat&logo=figma&logoColor=c7b9ff)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ### GitHub Stats:
 
