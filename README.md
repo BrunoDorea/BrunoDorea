@@ -40,3 +40,6 @@
 ### GitHub Stats:
 
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=brunodorea)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Version](https://img.shields.io/badge/versao-v3-black)
