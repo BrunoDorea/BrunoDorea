@@ -40,3 +40,5 @@
 ### GitHub Stats:
 
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=brunodorea)](https://github.com/anuraghazra/github-readme-stats)
+
+![snake gif](https://github.com/BrunoDorea/BrunoDorea/blob/output/github-contribution-grid-snake.gif)
