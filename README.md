@@ -1,5 +1,10 @@
-## I'm, Bruno Dórea
+<!-- ## I'm, Bruno Dórea
 ### Dev Java.
+ -->
+### GitHub Stats:
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunodorea&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodorea&layout=compact&langs_count=7&theme=dracula"/>
 
 ### Get in touch
 
@@ -37,8 +42,6 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-### GitHub Stats:
 
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=brunodorea)](https://github.com/anuraghazra/github-readme-stats)
 
 ![snake gif](https://github.com/BrunoDorea/BrunoDorea/blob/output/github-contribution-grid-snake.gif)
