@@ -1,10 +1,11 @@
 <!-- ## I'm, Bruno Dórea
-### Dev Java.
- -->
+### Dev Java. -->
+
 ### GitHub Stats:
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunodorea&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodorea&layout=compact&langs_count=7&theme=dracula"/>
+![Linguagens](https://github-readme-stats.vercel.app/api?username=brunodorea&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=brunodorea&layout=compact&langs_count=7&theme=dracula)
+
 
 ### Get in touch
 
