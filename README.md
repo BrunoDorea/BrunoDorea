@@ -13,12 +13,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-d%C3%B3rea-971aa290/)](https://www.linkedin.com/in/brunohfdorea/)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/BrunoDorearias10/)](https://github.com/BrunoDorea)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/bruno.h_)](https://www.instagram.com/bruno.h_)
-[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/bruno.dorea)
+<!-- [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/bruno.dorea)
 [![Perfil Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/brunodorea)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/brunodorea)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://pt.stackoverflow.com/users/281386/bruno)
 [![Github Site](https://img.shields.io/badge/BrunoDorea.GitHub.io-black?style=for-the-badge&logo={BrunoDorea.GitHub.io}&logoColor=white&link=https://brunodorea.github.io/)](https://brunodorea.github.io/)
-[![Github Portifolio](https://img.shields.io/badge/Bruno%20Labs-gray?style=for-the-badge&logo={Bruno-Labs}&logoColor=black&link=https://bruno-labs.netlify.app/)](https://bruno-labs.netlify.app/)
+[![Github Portifolio](https://img.shields.io/badge/Bruno%20Labs-gray?style=for-the-badge&logo={Bruno-Labs}&logoColor=black&link=https://bruno-labs.netlify.app/)](https://bruno-labs.netlify.app/) -->
 
 
 ### Skills
