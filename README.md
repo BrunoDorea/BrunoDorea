@@ -1,5 +1,5 @@
 <!-- ## I'm, Bruno Dórea
-### Dev Java. -->
+### Dev Java -->
 
 ### GitHub Stats:
 
