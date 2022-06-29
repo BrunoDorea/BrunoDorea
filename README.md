@@ -1,9 +1,3 @@
-# Bem vindo
-
-## Eu sou Bruno Dórea
-
-### Dev Java
-
 ### GitHub Stats
 
 ![Linguagens](https://github-readme-stats.vercel.app/api?username=brunodorea&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
@@ -24,12 +18,12 @@
 
 ### Skills
 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Github JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Github HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Github CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Github Kotlin](https://img.shields.io/badge/Kotlin-1e6e42?style=for-the-badge&logo=Kotlin&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Tools
 
