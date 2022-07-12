@@ -1,3 +1,7 @@
+#
+
+## Welcome
+
 ### GitHub Stats
 
 ![Linguagens](https://github-readme-stats.vercel.app/api?username=brunodorea&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
@@ -40,9 +44,3 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ![snake gif](https://github.com/BrunoDorea/BrunoDorea/blob/output/github-contribution-grid-snake.gif)
-
-### Portfolio
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunodorea&repo=ignite-labs-reactjs)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brunodorea&repo=dio-orkut)](https://github.com/anuraghazra/github-readme-stats)
