@@ -26,15 +26,9 @@ company: ["Spread"]
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=brunodorea&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&theme=flat&margin-w=15"/>
-  
-  ![snake gif](https://github.com/BrunoDorea/BrunoDorea/blob/output/github-contribution-grid-snake.gif)
-
-  ![brunodorea's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brunodorea)
-  
 </p>
 
+![snake gif](https://github.com/BrunoDorea/BrunoDorea/blob/output/github-contribution-grid-snake.gif)
 
-<p align="center">
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
-</p>
+![brunodorea's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brunodorea)
+  
