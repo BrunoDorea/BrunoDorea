@@ -1,4 +1,4 @@
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=brunodorea&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![activity graph](https://activity-graph.herokuapp.com/graph?username=brunodorea&theme=github-light&hide_border=true)
 
 <p align="center">
 <br/>
@@ -26,15 +26,15 @@ company: ["Spread"]
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=brunodorea&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&theme=flat&margin-w=15"/>
+  
+  ![snake gif](https://github.com/BrunoDorea/BrunoDorea/blob/output/github-contribution-grid-snake.gif)
+
+  ![brunodorea's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brunodorea)
+  
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunodorea&layout=compact)
 
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunodorea&show_icons=true)
-
-![snake gif](https://github.com/BrunoDorea/BrunoDorea/blob/output/github-contribution-grid-snake.gif)
-
-![brunodorea's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brunodorea)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<p align="center">
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</p>
