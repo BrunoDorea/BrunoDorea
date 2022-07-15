@@ -13,6 +13,7 @@
 </a>
 </br>
 <a href="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/18fecb80-7df2-4cdc-b91c-05d79a4997a8"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/18fecb80-7df2-4cdc-b91c-05d79a4997a8.svg" alt="wakatime"></a>
+<a href="https://www.codefactor.io/repository/github/brunodorea/brunodorea"><img src="https://www.codefactor.io/repository/github/brunodorea/brunodorea/badge" alt="CodeFactor" /></a>
 </p>
 
 ```yaml
