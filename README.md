@@ -1,5 +1,3 @@
-![activity graph](https://activity-graph.herokuapp.com/graph?username=brunodorea&theme=github-light&hide_border=true)
-
 <p align="center">
 <br/>
 <a href="https://twitter.com/brunoooooooo_">
@@ -29,7 +27,10 @@ company: ["Spread"]
   <img alig src="https://github-profile-trophy.vercel.app/?username=brunodorea&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&theme=flat&margin-w=15"/>
 </p>
 
-![snake gif](https://github.com/BrunoDorea/BrunoDorea/blob/output/github-contribution-grid-snake.gif)
+<p align="center">
+  <img alig src="https://activity-graph.herokuapp.com/graph?username=brunodorea&theme=github-light&hide_border=true"/>
+</p>
 
-![brunodorea's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brunodorea)
-  
+<p align="center">
+  <img alig src="https://github.com/BrunoDorea/BrunoDorea/blob/output/github-contribution-grid-snake.gif"/>
+</p>
