@@ -10,7 +10,7 @@
   <img alt="bruno.h_ |  Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
 </a>
 </br>
-<a href="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/18fecb80-7df2-4cdc-b91c-05d79a4997a8"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/18fecb80-7df2-4cdc-b91c-05d79a4997a8.svg" alt="wakatime"></a>
+<a href="https://wakatime.com/@68660678-6b86-4b78-98df-f5f41a37e1bc"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc.svg" alt="Total time coded since Jul 12 2022" /></a>
 <a href="https://www.codefactor.io/repository/github/brunodorea/brunodorea"><img src="https://www.codefactor.io/repository/github/brunodorea/brunodorea/badge" alt="CodeFactor" /></a>
 </p>
 
