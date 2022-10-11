@@ -14,6 +14,16 @@
 <a href="https://www.codefactor.io/repository/github/brunodorea/brunodorea"><img src="https://www.codefactor.io/repository/github/brunodorea/brunodorea/badge" alt="CodeFactor" /></a>
 </p>
 
+<p align="center">
+<a href="https://github.com/orgs/BH-Tec/repositories?language=css"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></a>
+<a href="https://github.com/orgs/BH-Tec/repositories?language=html"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></a>
+<a href="https://github.com/orgs/BH-Tec/repositories?language=javascript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+<a href="https://github.com/orgs/BH-Tec/repositories?language=java"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
+<a href="https://github.com/orgs/BH-Tec/repositories?language=kotlin"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
+<a href="https://github.com/orgs/BH-Tec/repositories?q=python"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>
+<a href="https://github.com/orgs/BH-Tec/repositories?q=markdown"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/></a>
+</p>
+
 ```yaml
 name: Bruno H
 located_in: Bahia, Brazil
