@@ -21,6 +21,7 @@
 <a href="https://github.com/orgs/BH-Tec/repositories?language=java"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
 <a href="https://github.com/orgs/BH-Tec/repositories?language=kotlin"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
 <a href="https://github.com/orgs/BH-Tec/repositories?q=python"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>
+<a href="https://github.com/orgs/BH-Tec/repositories?&language=typescript"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
 <a href="https://github.com/orgs/BH-Tec/repositories?q=markdown"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/></a>
 </p>
 
