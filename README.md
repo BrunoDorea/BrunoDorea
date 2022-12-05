@@ -40,7 +40,7 @@ company: ["Spread"]
 </p>
 
 <p align="center">
-  <img alig src="https://activity-graph.herokuapp.com/graph?username=brunodorea&theme=github-light&hide_border=true"/>
+  <img alig src="https://github-readme-activity-graph.cyclic.app/graph?username=brunodorea&theme=github-light&hide_border=true"/>
 </p>
 
 <p align="center">
