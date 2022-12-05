@@ -46,3 +46,13 @@ company: ["Spread"]
 <p align="center">
   <img alig src="https://github.com/BrunoDorea/BrunoDorea/blob/output/github-contribution-grid-snake.gif"/>
 </p>
+
+<p align="center">
+<a href="https://github.com/orgs/BH-Tec/repositories?q=alura"><img src="https://img.shields.io/badge/alura-navy.svg?style=for-the-badge&logo=alura" alt="Alura"/></a>
+<a href="https://github.com/orgs/BH-Tec/repositories?q=devemdobro"><img src="https://img.shields.io/badge/devemdobro-darkcyan.svg?style=for-the-badge&logo=devemdobro" alt="Dev em Dobro"/></a>
+<a href="https://github.com/orgs/BH-Tec/repositories?q=dio"><img src="https://img.shields.io/badge/dio-blueviolet.svg?style=for-the-badge&logo=dio" alt="Digital Innovation One"/></a>
+<a href="https://github.com/orgs/BH-Tec/repositories?q=kenzie-academy"><img src="https://img.shields.io/badge/kenzie-darkblue.svg?style=for-the-badge&logo=kenzie" alt="Kenzie Academy"/></a>
+<a href="https://github.com/orgs/BH-Tec/repositories?q=lets-code"><img src="https://img.shields.io/badge/let's code-F5B324.svg?style=for-the-badge&logo=letscode" alt="Ada by Let's Code"/></a>
+<a href="https://github.com/orgs/BH-Tec/repositories?q=rocketseat"><img src="https://img.shields.io/badge/rocketseat-black.svg?style=for-the-badge&logo=rocketseat" alt="Rocketseat"/></a>
+<a href="https://github.com/orgs/BH-Tec/repositories?q=hashtag-treinamentos"><img src="https://img.shields.io/badge/hashtag-red.svg?style=for-the-badge&logo=rocketseat" alt="Hashtag Treinamentos"/></a>
+</p>
