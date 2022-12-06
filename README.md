@@ -26,6 +26,10 @@
 <a href="https://github.com/orgs/BH-Tec/repositories?q=powerbi"><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Markdown"/></a>
 </p>
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img alt="Readme Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+developer;Backend+developer;Gamer+developer;QA+Tester"/></a>
+</p>
+
 ```yaml
 name: Bruno H
 located_in: Bahia, Brazil
