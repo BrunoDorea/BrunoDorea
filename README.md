@@ -58,5 +58,5 @@ company: ["Spread"]
 <a href="https://github.com/orgs/BH-Tec/repositories?q=kenzie-academy"><img src="https://img.shields.io/badge/kenzie-darkblue.svg?style=for-the-badge&logo=kenzie" alt="Kenzie Academy"/></a>
 <a href="https://github.com/orgs/BH-Tec/repositories?q=lets-code"><img src="https://img.shields.io/badge/let's code-F5B324.svg?style=for-the-badge&logo=letscode" alt="Ada by Let's Code"/></a>
 <a href="https://github.com/orgs/BH-Tec/repositories?q=rocketseat"><img src="https://img.shields.io/badge/rocketseat-black.svg?style=for-the-badge&logo=rocketseat" alt="Rocketseat"/></a>
-<a href="https://github.com/orgs/BH-Tec/repositories?q=hashtag-treinamentos"><img src="https://img.shields.io/badge/hashtag-red.svg?style=for-the-badge&logo=rocketseat" alt="Hashtag Treinamentos"/></a>
+<a href="https://github.com/orgs/BH-Tec/repositories?q=hashtag-treinamentos"><img src="https://img.shields.io/badge/hashtag treinamentos-red.svg?style=for-the-badge&logo=hashtag" alt="Hashtag Treinamentos"/></a>
 </p>
