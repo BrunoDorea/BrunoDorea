@@ -33,6 +33,7 @@ company: ["Spread"]
   <a href="https://github.com/orgs/BH-Tec/repositories?q=powerbi"><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Markdown"/></a>
 </div>
 
+<!-- 
 <div align="left">
   <h3>Cursos</h3>
   <a href="https://github.com/orgs/BH-Tec/repositories?q=alura"><img src="https://img.shields.io/badge/alura-navy.svg?style=for-the-badge&logo=alura" alt="Alura"/></a>
@@ -43,6 +44,7 @@ company: ["Spread"]
   <a href="https://github.com/orgs/BH-Tec/repositories?q=rocketseat"><img src="https://img.shields.io/badge/rocketseat-black.svg?style=for-the-badge&logo=rocketseat" alt="Rocketseat"/></a>
   <a href="https://github.com/orgs/BH-Tec/repositories?q=hashtag-treinamentos"><img src="https://img.shields.io/badge/hashtag treinamentos-red.svg?style=for-the-badge&logo=hashtag" alt="Hashtag Treinamentos"/></a>
 </div>
+ -->
 
 <p align="center">
   <img alig src="https://github-readme-activity-graph.cyclic.app/graph?username=brunodorea&theme=github-light&hide_border=true"/>
@@ -51,3 +53,6 @@ company: ["Spread"]
 <p align="center">
   <img alig src="https://github.com/BrunoDorea/BrunoDorea/blob/output/github-contribution-grid-snake.gif"/>
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
