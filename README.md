@@ -1,22 +1,21 @@
-<h2>E ai?</h2>
+<h2>Welcome 🎆🎆</h2>
 
-<p>
   <a target="_blank" href="mailto:brunodorea@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
   <a target="_blank" href="https://www.linkedin.com/in/brunohfdorea/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
-<p>
+  <a href="https://www.buymeacoffee.com/brunodorea" title="buy me a coffee" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" align="right"></a>
+  
   <a href="https://wakatime.com/@68660678-6b86-4b78-98df-f5f41a37e1bc"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc.svg" alt="Total time coded since Jul 12 2022" /></a>
   <a href="https://visitor-badge.laobi.icu/"><img src="https://visitor-badge.laobi.icu/badge?page_id=bh-tec" alt="BH Tec"/></a>
-</p>
+
+
+
+
+<hr>
 
 <img style="width: 320px" align="right" src="./assets/octocat-1675269865995.png" />
-<p align="right">
-  <a href="https://www.buymeacoffee.com/brunodorea" title="buy me a coffee" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
-</p>
 
 ```yaml
-name: Bruno H
+name: Bruno Henrique
 located_in: Bahia, Brazil
 from: Bahia, Brazil
 job: Developer and QA
@@ -36,9 +35,11 @@ company: ["Spread"]
   <a href="https://github.com/BrunoDorea?tab=repositories&q=powerbi"><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Markdown"/></a>
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <img alig src="https://github-readme-activity-graph.cyclic.app/graph?username=brunodorea&theme=github-light&hide_border=true"/>
-</p>
+</p> -->
+
+<hr>
 
 <p align="center">
   <img alig src="https://github.com/BrunoDorea/BrunoDorea/blob/output/github-contribution-grid-snake.gif"/>
