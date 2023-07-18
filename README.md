@@ -24,7 +24,7 @@ company: ["Spread"]
   <h3>Linguagens</h3>
   <a href="https://github.com/BrunoDorea?tab=repositories&language=python"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>
   <a href="https://github.com/BrunoDorea?tab=repositories&language=javascript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
-  <a href="https://github.com/BrunoDorea?tab=repositories&language=java"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
+  <a href="https://github.com/BrunoDorea?tab=repositories&language=java"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=OpenJDK&logoColor=white" alt="Java"/></a>
   <a href="https://github.com/BrunoDorea?tab=repositories&language=kotlin"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
   <a href="https://github.com/BrunoDorea?tab=repositories&language=css"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></a>
   <a href="https://github.com/BrunoDorea?tab=repositories&language=html"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></a>
