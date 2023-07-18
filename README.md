@@ -46,8 +46,7 @@ company: ["Spread"]
 
 <hr>
 
-<!--
 <p align="center">
   <img alig src="https://github.com/BrunoDorea/BrunoDorea/blob/output/github-contribution-grid-snake.gif"/>
 </p>
--->
+<!-- a -->
