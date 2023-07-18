@@ -5,18 +5,17 @@
 <a href="https://www.buymeacoffee.com/brunodorea" title="buy me a coffee" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" align="right"></a>
 
 <a href="https://wakatime.com/@68660678-6b86-4b78-98df-f5f41a37e1bc"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc.svg" alt="Total time coded since Jul 12 2022" /></a>
-<a href="https://visitor-badge.laobi.icu/"><img src="https://visitor-badge.laobi.icu/badge?page_id=bh-tec" alt="BH Tec"/></a>
+<a href="https://visitor-badge.laobi.icu/"><img src="https://visitor-badge.laobi.icu/badge?page_id=brunodorea&left_text=BrunoDorea" alt="Bruno Dórea"/></a>
 
 <hr>
 
 <img style="width: 320px" align="right" src="./assets/octocat.png" />
 
-```yaml
-name: Bruno Henrique
-located_in: Bahia, Brazil
-from: Bahia, Brazil
-job: Developer and QA
-education: ["University Estácio de Sá"]
+```javascript
+name: 'Bruno Henrique',
+located_in: 'Bahia, Brazil',
+job: ['Developer', 'QA'],
+education: ["University Estácio de Sá"],
 company: ["Spread"]
 ```
 
