@@ -12,7 +12,7 @@
 <img style="width: 320px" align="right" src="./assets/octocat.png" />
 
 ```javascript
-name: 'Bruno Henrique',
+name: 'Bruno Dórea',
 located_in: 'Bahia, Brazil',
 job: ['Developer', 'QA'],
 education: ["University Estácio de Sá"],
@@ -46,6 +46,15 @@ company: ["Spread"]
 <hr>
 
 <p align="center">
-  <img alig src="https://github.com/BrunoDorea/BrunoDorea/blob/output/github-contribution-grid-snake-dark.svg"/>
+  <img alig src="https://github.com/BrunoDorea/BrunoDorea/blob/output/github-contribution-grid-snake.svg"/>
 </p>
-<!-- a -->
+
+<hr>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoDorea&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoDorea&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunoDorea&theme=nord_dark) |
+| :-----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoDorea&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=BrunoDorea&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :---------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+
+<hr>
